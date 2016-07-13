@@ -1,0 +1,6 @@
+group = 'ch.essmann.iscrub'
+
+task wrapper(type: Wrapper) {
+	gradleVersion = '2.14'
+}
+
